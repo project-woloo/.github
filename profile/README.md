@@ -12,10 +12,11 @@ At **Wolo**, we’re redefining food delivery in Romania by connecting customers
 ---
 
 ## 🎯 **Our Mission**  
-To deliver happiness by empowering local restaurants, creating meaningful earning opportunities for couriers, and delighting customers with exceptional service.  
+Our mission is clear: To deliver happiness, one meal at a time.
+We empower local restaurants to grow, create meaningful earning opportunities for couriers, and provide customers with exceptional service every step of the way.
 
 ## 🌟 **Our Vision**  
-To become Romania’s most trusted and preferred food delivery platform, building lasting value for partners and delivering joy with every order.  
+We aim to become Romania’s most trusted and preferred food delivery platform, fostering value for our partners and delighting customers with every order. 
 
 ---
 
