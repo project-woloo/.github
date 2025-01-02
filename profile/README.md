@@ -1,3 +1,4 @@
+![Wolo Banner](./assets/images/wolo-banner.jpg)
 
 <p align="center">
   <a href="https://food.woloo.ro/"><img src="./assets/images/logo.png" alt="Wolo" width="75" /></a>
