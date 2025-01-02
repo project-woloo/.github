@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://food.woloo.ro/"><img src="./assets/images/logo.png" alt="Wolo" width="75" /></a>
+  <a href="https://restaurant.food.woloo.ro/"><img src="./assets/images/partner-logo.png" alt="Wolo Partner" width="75" /></a>
+  <img src="./assets/images/rider-logo.png" alt="Wolo Partner" width="75" />
+</p>
+ 
 # 🍴 Welcome to Wolo – Delivering Happiness, One Meal at a Time! 🚴‍♂️  
 
 At **Wolo**, we’re redefining food delivery in Romania by connecting customers, restaurants, and couriers in a way that values quality, fairness, and reliability. Whether it’s your favorite comfort food or a quick lunch on a busy day, Wolo ensures it gets to you fresh and fast!  
@@ -43,11 +50,33 @@ To become Romania’s most trusted and preferred food delivery platform, buildin
 
 ---
 
-## 📲 **Join the Wolo Experience**  
+## 📲 **Join the Wolo Ecosystem**  
 
-Download the Wolo app today and experience food delivery like never before!  
+Experience the future of food delivery with Wolo! Whether you’re a customer, a restaurant partner, or a delivery rider, we have the perfect solution for you.  
 
-- **Available on:** [App Store](#) & [Google Play](#)  
+### 📱 **Mobile Apps**  
+
+- **Wolo App**: For users and customers to browse, order, and track their favorite meals.  
+- **Wolo Partner App**: Designed for restaurant partners to manage orders and connect with customers.  
+- **Wolo Rider App**: Empowering delivery riders to efficiently manage their tasks and maximize earnings.  
+
+### 💻 **Web Apps**  
+
+- **Wolo Web**: An intuitive platform for users and customers to explore menus and place orders seamlessly.  
+- **Wolo Partner Web**: A powerful tool for restaurant partners to handle orders and analytics, all from their desktop.  
+
+---
+
+💡 **Get Started Today!**  
+Choose your role and access the tools you need to thrive:  
+
+- **Download our apps**: [App Store](#) | [Google Play](#)  
+- **Visit our web apps**: [Wolo Web](https://food.woloo.ro/) | [Wolo Partner Web](https://restaurant.food.woloo.ro/)  
+
+---
+
+With Wolo, everyone wins. Join us and make food delivery better for all! 🍔🚀  
+
 
 ---
 
